@@ -1,6 +1,6 @@
 # Security Incident Reports
 
-This folder contains cybersecurity incident reports written as part of practical learning and analysis activities in my cybersecurity journey. Each report investigates a specific type of network attack using real-world scenarios and packet capture analysis.
+This folder contains cybersecurity incident reports written as part of practical learning and analysis activities in my cybersecurity journey. Each report investigates a specific type of network attack using real world scenarios and packet capture analysis.
 
 ## 🧾 Reports Included
 
@@ -21,7 +21,7 @@ This folder contains cybersecurity incident reports written as part of practical
 ## 📌 Purpose
 
 These reports demonstrate my ability to:
-- Detect and analyze different types of network-based security incidents
+- Detect and analyze different types of network based security incidents
 - Use security tools for packet analysis
 - Write clear, actionable incident reports
 - Recommend preventative and responsive cybersecurity measures
