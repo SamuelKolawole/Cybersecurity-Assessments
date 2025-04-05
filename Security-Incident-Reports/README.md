@@ -1,39 +1,21 @@
 # Security Incident Reports
 
-This folder contains cybersecurity incident reports written as part of practical learning and analysis activities in my cybersecurity journey. Each report investigates a specific type of network attack using real world scenarios and packet capture analysis.
+This folder contains cybersecurity incident reports written based on packet captures, simulated attacks, and traffic analysis. Each report outlines key findings, recommendations, and relevant metadata.
 
-## 🧾 Reports Included
+## Available Reports
 
-### 1. **DNS and ICMP Traffic Log Incident Report**
-- **Focus:** Investigates suspicious DNS and ICMP network traffic.
-- **Tools Used:** Wireshark
-- **Analysis:** Reviewed logs to detect possible unauthorized DNS tunneling or data exfiltration attempts.
-- **Outcome:** Identified unusual patterns and recommended steps for mitigation and monitoring.
+1. **[DNS ICMP Traffic Report](DNS-ICMP-Traffic-Report.md)**  
+   An analysis of suspicious DNS and ICMP traffic patterns detected in a captured session.
 
-### 2. **SYN Flood Attack Incident Report**
-- **Focus:** Analyzed a Denial of Service (DoS) incident caused by a SYN flood attack.
-- **Tools Used:** Packet sniffer (e.g., Wireshark), firewall logs
-- **Analysis:** Explained how the attack overwhelmed the server with TCP SYN requests.
-- **Outcome:** Implemented IP blocking and suggested further preventive measures against DoS attacks.
+2. **[Drive-By Download & Brute Force Attack](Drive-By-Download-Brute-Force-Attack.pdf)**  
+   A comprehensive report on a simulated drive-by download combined with brute-force login attempts.
 
----
+3. **[SYN Flood Attack Report (Markdown)](SYN-Flood-Attack-Report.md)**  
+   Technical write-up analyzing a SYN flood denial-of-service attack.
 
-## 📌 Purpose
-
-These reports demonstrate my ability to:
-- Detect and analyze different types of network based security incidents
-- Use security tools for packet analysis
-- Write clear, actionable incident reports
-- Recommend preventative and responsive cybersecurity measures
+4. **[SYN Flood Attack Report (PDF)](SYN-Flood-Attack-Report.pdf)**  
+   Formatted version of the SYN Flood incident report.
 
 ---
 
-## 📁 File Formats
-
-Each report is available in:
-- **Markdown (.md)**: Readable directly on GitHub
-- **PDF (.pdf)**: For formal presentation and sharing
-
----
-
-
+All reports in this folder were created as part of cybersecurity training and are intended for educational purposes.
