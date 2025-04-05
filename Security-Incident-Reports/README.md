@@ -16,6 +16,14 @@ This folder contains cybersecurity incident reports written based on packet capt
 4. **[SYN Flood Attack Report (PDF)](SYN-Flood-Attack-Report.pdf)**  
    Formatted version of the SYN Flood incident report.
 
+## 📄 Network Hardening Risk Assessment Report
+
+This report was created in response to a simulated breach at a social media company caused by several network vulnerabilities. 
+
+The report identifies critical security flaws such as weak password policies, lack of firewall rules, and no multi-factor authentication (MFA). It also proposes effective network hardening methods to prevent future breaches.
+
+👉 [Download the full report](./Network-Hardening-Risk-Assessment.pdf)
+
 ---
 
 All reports in this folder were created as part of cybersecurity training and are intended for educational purposes.
