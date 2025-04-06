@@ -1,3 +1,13 @@
+# Cybersecurity Incident Report – DDoS Attack (NIST CSF Analysis)
+
+**Scenario**:  
+A multimedia company that provides web and graphic design services experienced a Distributed Denial of Service (DDoS) attack. This report analyzes the incident using the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), detailing the event and suggesting improvements under the Identify, Protect, Detect, Respond, and Recover categories.
+
+**Course Context**:  
+This report was prepared as part of a cybersecurity assignment to demonstrate practical application of the NIST CSF in analyzing a real world incident.
+
+---
+
 **Incident report analysis**
 
 | Summary | The company’s internal network was disrupted for two hours due to a Distributed Denial of Service (DDoS) attack. The attacker used a flood of ICMP (ping) packets to overwhelm the network, causing all internal network services to become unresponsive. Upon investigation, it was discovered that an unconfigured firewall allowed these malicious packets to enter the network. The incident was resolved by blocking ICMP packets and temporarily shutting down non critical services. Remediation steps were taken to prevent recurrence. |  |  |
