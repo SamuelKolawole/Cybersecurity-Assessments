@@ -1,29 +1,32 @@
 # Security Incident Reports
 
-This folder contains cybersecurity incident reports written based on packet captures, simulated attacks, and traffic analysis. Each report outlines key findings, recommendations, and relevant metadata.
+This folder contains real-world and simulated cybersecurity incident reports created as part of hands-on exercises in cybersecurity learning. Each report follows industry-standard frameworks such as NIST CSF or general best practices, focusing on detection, analysis, response, and mitigation.
 
-## Available Reports
+## 📁 Incident Reports Included
 
-1. **[DNS ICMP Traffic Report](DNS-ICMP-Traffic-Report.md)**  
-   An analysis of suspicious DNS and ICMP traffic patterns detected in a captured session.
+1. **DNS-ICMP-Traffic-Report**  
+   - Focus: Malicious traffic detection  
+   - Tools: Wireshark, Suricata
 
-2. **[Drive-By Download & Brute Force Attack](Drive-By-Download-Brute-Force-Attack.pdf)**  
-   A comprehensive report on a simulated drive-by download combined with brute-force login attempts.
+2. **Drive-By-Download & Brute Force Attack Report**  
+   - Focus: Malware delivery + weak credential exploitation  
+   - Framework: MITRE ATT&CK, Log Review
 
-3. **[SYN Flood Attack Report (Markdown)](SYN-Flood-Attack-Report.md)**  
-   Technical write-up analyzing a SYN flood denial-of-service attack.
+3. **Network Hardening Risk Assessment**  
+   - Focus: Misconfiguration & security posture analysis  
+   - Techniques: Baseline hardening, port review
 
-4. **[SYN Flood Attack Report (PDF)](SYN-Flood-Attack-Report.pdf)**  
-   Formatted version of the SYN Flood incident report.
+4. **SYN Flood Attack Report**  
+   - Focus: Denial-of-Service traffic behavior  
+   - Tools: Packet analysis, Firewall log inspection
 
-## 📄 Network Hardening Risk Assessment Report
-
-This report was created in response to a simulated breach at a social media company caused by several network vulnerabilities. 
-
-The report identifies critical security flaws such as weak password policies, lack of firewall rules, and no multi-factor authentication (MFA). It also proposes effective network hardening methods to prevent future breaches.
-
-👉 [Download the full report](./Network-Hardening-Risk-Assessment.pdf)
+5. **DDoS Attack – NIST CSF Report**  
+   - Focus: Analyze DDoS using NIST Cybersecurity Framework  
+   - Structure: Identify, Protect, Detect, Respond, Recover
 
 ---
 
-All reports in this folder were created as part of cybersecurity training and are intended for educational purposes.
+## 🎯 Purpose
+
+These reports demonstrate how to investigate security events, assess risk, and apply frameworks in real world scenarios, bridging theory with practice.
+
