@@ -5,7 +5,7 @@ This folder contains portfolio level data analysis reports built using SQL queri
 ## 📄 Report Included
 
 - **Apply-Filters-to-SQL-Queries-Report.pdf**  
-  This report demonstrates how SQL queries using `AND`, `OR`, `NOT`, `LIKE`, and time/date filters can be used to investigate suspicious login attempts and identify high risk user activity. Includes fully explained queries and use-case scenarios.
+  This report demonstrates how SQL queries using `AND`, `OR`, `NOT`, `LIKE`, and time/date filters can be used to investigate suspicious login attempts and identify high risk user activity. Includes fully explained queries and use case scenarios.
 
 ---
 
