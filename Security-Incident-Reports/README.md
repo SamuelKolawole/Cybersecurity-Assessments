@@ -23,6 +23,17 @@ This folder contains real-world and simulated cybersecurity incident reports cre
 5. **DDoS Attack – NIST CSF Report**  
    - Focus: Analyze DDoS using NIST Cybersecurity Framework  
    - Structure: Identify, Protect, Detect, Respond, Recover
+  
+6. **USB Baiting Attack – Rhetorical Hospital**
+
+In this scenario-based assignment from the Google Cybersecurity Certificate, I played the role of a security team member at Rhetorical Hospital. A suspicious USB drive was found in the parking lot with HR-related files. The task was to:
+
+- Review the contents of the USB
+- Analyze how an attacker could use this data
+- Propose mitigation strategies to reduce organizational risk
+
+📄 [USB-Baiting-Attack-Scenario-Rhetorical-Hospital.pdf](./USB-Baiting-Attack-Scenario-Rhetorical-Hospital.pdf)
+
 
 ---
 
