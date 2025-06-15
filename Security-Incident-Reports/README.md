@@ -34,6 +34,11 @@ In this scenario-based assignment from the Google Cybersecurity Certificate, I p
 
 📄 [USB-Baiting-Attack-Scenario-Rhetorical-Hospital.pdf](./USB-Baiting-Attack-Scenario-Rhetorical-Hospital.pdf)
 
+7. **Healthcare Ransomware Incident – Incident Journal Entry**
+
+This entry documents a ransomware attack that occurred at a small U.S. healthcare clinic. The incident began with phishing emails that led to malware execution and file encryption. This was recorded in an Incident Handler’s Journal format using the 5 W’s method.
+
+📄 [Ransomware-Phishing-Incident-Journal-Healthcare-Clinic.pdf](./Ransomware-Phishing-Incident-Journal-Healthcare-Clinic.pdf)
 
 ---
 
