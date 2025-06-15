@@ -40,9 +40,26 @@ This entry documents a ransomware attack that occurred at a small U.S. healthcar
 
 📄 [Ransomware-Phishing-Incident-Journal-Healthcare-Clinic.pdf](./Ransomware-Phishing-Incident-Journal-Healthcare-Clinic.pdf)
 
+
+8. **Phishing Malware Incident – Pyramid of Pain Analysis**
+
+This document analyzes a phishing based malware attack using the **Pyramid of Pain framework**, based on a realistic cybersecurity scenario from the **Google Cybersecurity Professional Certificate**.
+
+#### Scenario Summary
+As a Level 1 SOC analyst at a financial services company, I received an alert about a suspicious file downloaded by an employee. The file was a **password-protected spreadsheet** received via email, and opening it triggered a **malicious payload**. Multiple unauthorized executables were created, and an IDS raised an alert.
+
+#### What I Did
+I used **VirusTotal** to investigate the file hash and extract:
+- A verdict on whether the file is malicious
+- 3 **indicators of compromise (IoCs)** including a malicious IP, domain, and TTPs
+
+#### File:
+[Phishing-Malware-Pyramid-of-Pain.pdf](./Phishing-Malware-Pyramid-of-Pain.pdf)
+
+
 ---
 
-## 🎯 Purpose
+## Purpose
 
 These reports demonstrate how to investigate security events, assess risk, and apply frameworks in real world scenarios, bridging theory with practice.
 
