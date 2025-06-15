@@ -61,7 +61,7 @@ Documented using the **Incident Handler’s Journal** method and the **5 W’s**
 ---
 
 ### 8. **Phishing Malware Incident – Pyramid of Pain Analysis**
-Analyzed a phishing-based malware attack using the **Pyramid of Pain** threat intelligence model.
+Analyzed a phishing based malware attack using the **Pyramid of Pain** threat intelligence model.
 
 #### Scenario Summary
 A password-protected spreadsheet was sent via phishing email and, when opened, executed a malicious payload. The alert was raised after unauthorized executables were detected.
@@ -72,6 +72,19 @@ A password-protected spreadsheet was sent via phishing email and, when opened, e
 - Extracted 3 IoCs: IP address, domain name, and MITRE ATT&CK TTPs
 
 📄 [Phishing-Malware-Pyramid-of-Pain.pdf](./Phishing-Malware-Pyramid-of-Pain.pdf)
+
+---
+
+### 9. **Phishing Alert Ticket – Incident Escalation Summary**
+
+This report is based on a phishing alert received at a financial services organization. The alert was triggered by an email containing a password-protected `.exe` file attachment. I investigated the file's SHA256 hash using VirusTotal, confirmed it was known malware, and followed the SOC phishing playbook to determine the next steps.
+
+#### Summary of Actions Taken:
+- Confirmed the attachment (`bfsvc.exe`) matched a known malicious hash
+- Analyzed sender details, message content, and red flags (e.g., grammar, spoofed email)
+- Followed escalation procedures per the phishing incident response playbook
+
+📄 [Phishing-Alert-Ticket-Escalation.pdf](./Phishing-Alert-Ticket-Escalation.pdf)
 
 ---
 
