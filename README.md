@@ -1,37 +1,113 @@
-# Cybersecurity Assessments
+# 🛡️ Cybersecurity Assessments Portfolio
 
-This repository contains a collection of cybersecurity related tasks, assessments, and reports. It is organized into different categories to reflect real world security workflows and learning paths.
+This repository contains all the hands-on cybersecurity projects and reports I completed as part of the **Google Cybersecurity Professional Certificate**. It showcases a wide range of technical competencies through simulated security tasks, real-world scenarios, and structured documentation.
+
+Each folder reflects critical security functions and demonstrates readiness for an entry-level role in a Security Operations Center (SOC), GRC team, or analyst position.
+
+---
+
+## 🎓 About the Program
+
+The **Google Cybersecurity Professional Certificate** is a rigorous 8-course program that prepares learners for entry-level roles in cybersecurity. It covers:
+
+- Incident detection and response
+- Network and system security
+- SIEM and log analysis
+- Security audits and risk assessments
+- Threat modeling
+- Scripting and automation with Python
+- Key frameworks: **NIST CSF**, **MITRE ATT&CK**, **Pyramid of Pain**, and **CIS Controls**
+
+This portfolio demonstrates the practical application of these skills using tools, frameworks, and techniques aligned with industry standards.
+
+---
 
 ## 📁 Repository Structure
 
-- **/Security-Audits**  
-  Internal and external security audits of IT systems and environments.  
-  _Example: Botium IT Audit_
+### 1. **/Security-Audits**
+Internal and external security audits of simulated IT systems. Reports align with industry frameworks like **NIST CSF**.
 
-- **/Security-Incidents-Reports**  
-  Reports documenting cybersecurity incidents, threat analyses, and applied frameworks (e.g., NIST CSF).  
-  _Examples: DNS ICMP Traffic Report, SYN Flood Attack Report, Network Hardening Risk Assessment_
-
-- **/System-Configuration-Tasks**  
-  Hands on Linux system configuration and administration tasks, especially around file permissions and access control.  
-  _Example: Managing Linux File Permissions Report_
+🧰 Tools/Concepts: Risk analysis, compliance audits, policy review  
+📄 Example: Botium Toys IT Audit Report
 
 ---
 
-## 🔍 Purpose
+### 2. **/Security-Incident-Reports**
+A collection of documented cybersecurity incidents involving malware, phishing, and DoS attacks. Each report follows a structured response framework.
 
-This repository serves as a growing portfolio of practical cybersecurity work, demonstrating skills across:
-
-- System hardening
-- Incident analysis
-- Security audits
-- Linux administration
-- Framework alignment (e.g., NIST, CIS)
-
-It is actively maintained and expanded as part of my cybersecurity journey.
+🧰 Tools/Concepts: Wireshark, VirusTotal, Pyramid of Pain, MITRE ATT&CK  
+📄 Examples:
+- DNS ICMP Traffic Report
+- SYN Flood Attack Report
+- Network Hardening Risk Assessment
+- Ransomware Incident (Healthcare)
+- Phishing Alert Ticket Escalation
 
 ---
 
-## 📌 Note
+### 3. **/System-Configuration-Tasks**
+Linux-based configuration and scripting tasks focused on access control and automation of security processes.
 
-All reports are for educational purposes and showcase technical understanding, not actual business cases unless otherwise stated.
+🧰 Tools/Concepts: Linux CLI (`chmod`, `ls -la`), file permissions, Python scripting  
+📄 Examples:
+- Managing Linux File Permissions
+- IP Allow List Update Script in Python
+
+---
+
+### 4. **/Threat-Modeling-Activities**
+Threat modeling exercises to evaluate system architecture risks using the **PASTA** framework.
+
+🧰 Tools/Concepts: Data flow diagrams, attack trees, TTP mapping  
+📄 Example: Threat Model for Sneaker Marketplace App
+
+---
+
+### 5. **/Tool-Comparisons-and-Research**
+Analytical comparisons of common security tools used in packet inspection and traffic capture.
+
+🧰 Tools/Concepts: Wireshark vs. tcpdump, GUI vs CLI, BPF filters  
+📄 Example: Venn Diagram Comparison Report
+
+---
+
+### 6. **/Data-Analysis-Activities**
+SQL-based tasks demonstrating the ability to filter and analyze structured data as part of log review or threat hunting.
+
+🧰 Tools/Concepts: SQL, filtering, pattern recognition  
+📄 Example: Apply Filters to SQL Queries Report
+
+---
+
+## 🔐 Skills Demonstrated
+
+- 🔹 Network traffic analysis (Wireshark, Suricata)
+- 🔹 Security incident detection and documentation
+- 🔹 Linux system hardening and access control
+- 🔹 Risk assessment using NIST CSF & CIS Controls
+- 🔹 Threat modeling (PASTA, MITRE ATT&CK)
+- 🔹 Python scripting for automation
+- 🔹 SIEM/log analysis and data filtering using SQL
+
+---
+
+## 🎯 Purpose
+
+This repository is a complete record of my cybersecurity training through Google’s certificate program. It highlights my ability to:
+
+- Respond to security incidents using structured frameworks
+- Apply technical tools to detect, investigate, and report on threats
+- Communicate findings through professional documentation
+- Build automation and configuration scripts to strengthen system security
+
+All projects reflect my commitment to building job-ready cybersecurity skills and preparing for a career as a junior cybersecurity analyst or SOC team member.
+
+---
+
+## 📌 Disclaimer
+
+All work in this repository is based on simulated labs, coursework, or fictional business scenarios provided by the **Google Cybersecurity Certificate**. No proprietary or client data is included.
+
+---
+
+> 💼 If you’re a recruiter or hiring manager, this portfolio demonstrates my hands-on experience and readiness for entry-level roles. I’d be glad to walk you through any report or project in detail.
