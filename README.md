@@ -110,4 +110,25 @@ All work in this repository is based on simulated labs, coursework, or fictional
 
 ---
 
+## 🙋 About Me
+
+I'm a tech-pivoting professional with a background in virtual assistance and operations, now fully trained through the **Google Cybersecurity Professional Certificate**. My skills span system configuration, threat detection, incident response, and Python scripting for security use cases.
+
+I’m currently seeking **entry-level cybersecurity roles** such as:
+- SOC Analyst (Tier 1)
+- Cybersecurity Analyst
+- Security Support / Operations
+
+I'm committed, fast learning, and ready to contribute to a team protecting systems and data in the real world.
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: samuelmkolawole@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/samuelmkolawole](https://linkedin.com/in/samuelmkolawole)
+- 🌐 GitHub: [github.com/SamuelKolawole](https://github.com/SamuelKolawole)
+
+---
+
 > 💼 If you’re a recruiter or hiring manager, this portfolio demonstrates my hands-on experience and readiness for entry-level roles. I’d be glad to walk you through any report or project in detail.
